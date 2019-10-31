@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/koinuri/virtualizer_/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/virtualizer_.dir/src/main.cpp.o -c /home/koinuri/virtualizer_/src/main.cpp",
+  "file": "/home/koinuri/virtualizer_/src/main.cpp"
+}
+]
